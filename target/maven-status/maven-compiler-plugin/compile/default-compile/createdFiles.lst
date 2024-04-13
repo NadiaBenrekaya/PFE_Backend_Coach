@@ -1,0 +1,9 @@
+com\proxym\project\user\Role.class
+com\proxym\project\ProjectApplication.class
+com\proxym\project\user\User.class
+com\proxym\project\config\ApplicationConfig.class
+com\proxym\project\config\JwtService.class
+com\proxym\project\user\User$UserBuilder.class
+com\proxym\project\config\SecurityConfiguration.class
+com\proxym\project\user\UserRepository.class
+com\proxym\project\config\JwtAuthenticationFilter.class
